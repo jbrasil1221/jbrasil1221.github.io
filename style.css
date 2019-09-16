@@ -4,6 +4,7 @@ body {
 body {
         width: 800px;
         margin: auto;
+        font-size: 120%;
 }
 
 #nav-table { width:800px;}
