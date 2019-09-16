@@ -2,9 +2,11 @@ body {
         background-color: rgb(217, 217, 217);
 }
 body {
-        margin: auto;
         width: 800px;
         
+}
+body {
+        margin: auto;
 }
 
 #nav-table { width:800px;}
