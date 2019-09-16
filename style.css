@@ -3,6 +3,7 @@ body {
 }
 body {
         width: 800px;
+        align-content: center;
 }
 
 #nav-table { width:800px;}
