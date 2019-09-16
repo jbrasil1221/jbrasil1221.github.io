@@ -3,10 +3,8 @@ body {
 }
 body {
         width: 800px;
+        text-indent: 5%;
         
-}
-body {
-        margin: auto;
 }
 
 #nav-table { width:800px;}
